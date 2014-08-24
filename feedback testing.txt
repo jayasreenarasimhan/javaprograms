@@ -1,0 +1,11 @@
+
+
+client interaction
+security testing
+browser compatibility
+traceability
+qc qtp
+qc - defect life cycle
+content of test plan
+functionality scenarios in banking
+status and drop downs
