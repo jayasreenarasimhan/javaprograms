@@ -16,5 +16,7 @@ class fact
 			n = n - 1;
 		}
 		System.out.println(count + "! = " + product);
+		
+		//
 	}
 }
